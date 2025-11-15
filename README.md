@@ -1,5 +1,4 @@
-# string-swapping
-A no. or text with sizeof() and 
+
 #include <iostream>
 using namespace std;
 
